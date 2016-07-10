@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'rps10k'
+
+Rps10k.play
